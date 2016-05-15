@@ -1,0 +1,36 @@
+div {
+	background-color: #F4EBC3;
+	text-align: left;
+	border-radius: 5%;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 5px;
+	width: 50%;
+}
+h1 {
+	text-align: center;
+	background-color: #8282b5;
+	border: 1px solid black;
+}
+p {
+	text-align: center;
+}
+#about{
+	width: 30%;
+	position: relative;
+	float: right;
+	text-align: center;
+}
+footer {
+	position: relative;
+	clear: both;
+}
+a:hover {
+	text-decoration: none;
+	font-weight: bold;
+}
+img {
+	margin: 5px;
+	border: 1px solid black;
+	padding; 5px;
+}
